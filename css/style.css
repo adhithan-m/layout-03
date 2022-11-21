@@ -1,0 +1,132 @@
+.header{
+	background-color:gray;
+}
+.wrapper{
+	width:70%;
+	margin:auto;
+}
+.header .header-fc{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.header .header-fc .header-logo{
+	width:180px;
+	height:60px;
+	background-color:orange;
+}
+.header .header-fc .header-navi{
+	width:180px;
+	height:60px;
+	background-color:orange;
+	
+}
+.banner{
+		background-color:lightblue;
+}
+.about-fc{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.about-fc .about-heading{
+	width:100%;
+	text-align:center;
+	height:50px;
+	background-color:gray;
+	padding:10px;
+	margin-top:5px;
+}
+.about-fc .about-text{
+	width:48%;
+	height:150px;
+	background-color:lightgray;
+	text-align:center;
+	
+}
+.faq{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.faq .faq-heading{
+	width:100%;
+	text-align:center;
+	height:50px;
+	background-color:lightblue;
+	padding-top:20px;
+	margin-top:5px;
+}
+.faq .faq-qn{
+	width:100%;
+	height:80px;
+	background-color:lightgray;
+	text-align:down;
+}
+.logo-fc{
+    display:flex;
+	justify-content:center;
+}
+.logo-fc .logo-heading{
+	width:100%;
+	text-align:center;
+	height:100px;
+	background-color:lightblue;
+	padding:20px;
+	margin-top:5px;
+}
+.about-fc{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.portfolio{
+	background-color:white;
+}
+.wrapper{
+	width:70%;
+	margin:auto;
+}
+.portfolio .portfolio-fc{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.portfolio-fc .portfolio-heading{
+	width:100%;
+	text-align:center;
+	height:50px;
+	background-color:lightblue;
+	padding-top:20px;
+	margin-top:5px;
+}
+.portfolio-fc .image{
+	width:30%;
+	height:120px;
+	background-color:lightgray;
+    text-align:center;
+	padding-top:50px;
+	margin-top:20px;
+}
+
+.contact-fc{
+	background-color:white;
+}
+	
+
+.contact-fc .contact-heading{
+	width:100%;
+	text-align:center;
+	height:25px;
+	background-color:lightblue;
+	padding:20px;
+	margin-top:5px;
+}
+
+.contact-fc .details{
+	width:100%;
+
+	height:50x;
+	background-color:lightgreen;
+	padding:20px;
+}
